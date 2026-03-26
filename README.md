@@ -1,0 +1,1 @@
+# Algebraic-compatibility-governs-trainability-in-variational-quantum-models
