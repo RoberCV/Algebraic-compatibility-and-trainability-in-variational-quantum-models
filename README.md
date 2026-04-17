@@ -1,1 +1,1 @@
-# Algebraic-compatibility-governs-trainability-in-variational-quantum-models
+# Algebraic compatibility and trainability in variational quantum models
